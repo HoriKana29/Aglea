@@ -1,0 +1,1 @@
+ehe->next = n->next;
